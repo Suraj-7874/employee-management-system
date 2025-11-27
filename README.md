@@ -147,6 +147,24 @@ curl -X PATCH http://localhost:8080/api/employee/1 \
   }'
 ```
 
+- ImageShots :-
+##  Main Page
+| Page                    | Preview                                                    |
+| ----------------------- | ---------------------------------------------------------- |
+| 🏠 Main Page (Slider)   | ![Main Page](./src/Screenshorts/Slider.png)                |
+| 📂 Categories Page      | ![Categories Page](./src/Screenshorts/Categories.png)      |
+| 🛍️ Product Grid Page   | ![Product Page](./src/Screenshorts/product.png)            |
+| 📄 Product Details Page | ![Product Details](./src/Screenshorts/product_details.png) |
+| ❤️ Wishlist Page        | ![Wishlist Page](./src/Screenshorts/wishlist.png)          |
+| 🛒 Bag / Cart Page      | ![Bag Page](./src/Screenshorts/Bag.png)                    |
+| 🔐 Login Page           | ![Login Page](./src/Screenshorts/login.png)                |
+| 👤 Profile Page         | ![Profile Page](./src/Screenshorts/profile.png)            |
+| 📝 Register Page        | ![Register Page](./src/Screenshorts/register.png)          |
+| 📢 Footer Section       | ![Footer Page](./src/Screenshorts/Footer.png)              |
+
+
+
+
 ## 🗄️ Database Schema
 
 ### Employee Table (`employee_information`)
