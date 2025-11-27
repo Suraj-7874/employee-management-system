@@ -158,7 +158,7 @@ curl -X PATCH http://localhost:8080/api/employee/1 \
 | 🗑️ **Delete Page**      | ![Delete Page](./ScreenShots/del_emp.png)       |
 | 🔍 **Search Page**       | ![Search Page](./ScreenShots/search_emp.png)    |
 | 🔗 **API Page**          | ![API Page](./ScreenShots/Api.png)              |
-| 📄 **API Page (v2)**     | ![API Page 2](./src/Screenshorts/Api_2.png)     |
+| 📄 **API Page (v2)**     | ![API Page 2](./Screenshorts/Api_2.png)     |
 
 ## 🗄️ Database Schema
 
