@@ -151,7 +151,7 @@ curl -X PATCH http://localhost:8080/api/employee/1 \
 ##  Main Page
 | Page                    | Preview                                                    |
 | ----------------------- | ---------------------------------------------------------- |
-| 🏠 Main Page (Slider)   | ![Main Page](./src/Screenshorts/Slider.png)                |
+| 🏠 Main Page (Slider)   | ![Main Page](./ScreenShots/Home.png)                |
 | 📂 Categories Page      | ![Categories Page](./src/Screenshorts/Categories.png)      |
 | 🛍️ Product Grid Page   | ![Product Page](./src/Screenshorts/product.png)            |
 | 📄 Product Details Page | ![Product Details](./src/Screenshorts/product_details.png) |
