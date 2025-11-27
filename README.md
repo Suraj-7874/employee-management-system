@@ -148,22 +148,17 @@ curl -X PATCH http://localhost:8080/api/employee/1 \
 ```
 
 - ImageShots :-
-##  Main Page
-| Page                    | Preview                                                    |
-| ----------------------- | ---------------------------------------------------------- |
-| 🏠 Main Page (Slider)   | ![Main Page](./ScreenShots/Home.png)                |
-| 📂 Categories Page      | ![Categories Page](./src/Screenshorts/Categories.png)      |
-| 🛍️ Product Grid Page   | ![Product Page](./src/Screenshorts/product.png)            |
-| 📄 Product Details Page | ![Product Details](./src/Screenshorts/product_details.png) |
-| ❤️ Wishlist Page        | ![Wishlist Page](./src/Screenshorts/wishlist.png)          |
-| 🛒 Bag / Cart Page      | ![Bag Page](./src/Screenshorts/Bag.png)                    |
-| 🔐 Login Page           | ![Login Page](./src/Screenshorts/login.png)                |
-| 👤 Profile Page         | ![Profile Page](./src/Screenshorts/profile.png)            |
-| 📝 Register Page        | ![Register Page](./src/Screenshorts/register.png)          |
-| 📢 Footer Section       | ![Footer Page](./src/Screenshorts/Footer.png)              |
+##  Main Page :-
 
-
-
+| Page                     | Preview                                         |
+| ------------------------ | ----------------------------------------------- |
+| 🏠 **Home Page**         | ![Home Page](./ScreenShots/Home.png)            |
+| 📂 **Add Employee Page** | ![Add Employee Page](./ScreenShots/Add_emp.png) |
+| ❤️ **Update Page**       | ![Update Page](./ScreenShots/Update_emp.png)    |
+| 🗑️ **Delete Page**      | ![Delete Page](./ScreenShots/del_emp.png)       |
+| 🔍 **Search Page**       | ![Search Page](./ScreenShots/search_emp.png)    |
+| 🔗 **API Page**          | ![API Page](./ScreenShots/Api.png)              |
+| 📄 **API Page (v2)**     | ![API Page 2](./src/Screenshorts/Api_2.png)     |
 
 ## 🗄️ Database Schema
 
